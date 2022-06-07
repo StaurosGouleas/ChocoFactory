@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChocoFactory", "ChocoFactory\ChocoFactory.csproj", "{5026612D-1530-4C54-B2CB-F1BAB7602070}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChocoFactoryTests", "ChocoFactoryTests1\ChocoFactoryTests.csproj", "{4371E00E-3490-482A-85F8-CA8AD64C8043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5026612D-1530-4C54-B2CB-F1BAB7602070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5026612D-1530-4C54-B2CB-F1BAB7602070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5026612D-1530-4C54-B2CB-F1BAB7602070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5026612D-1530-4C54-B2CB-F1BAB7602070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4371E00E-3490-482A-85F8-CA8AD64C8043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4371E00E-3490-482A-85F8-CA8AD64C8043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4371E00E-3490-482A-85F8-CA8AD64C8043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4371E00E-3490-482A-85F8-CA8AD64C8043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A731B699-AA94-4892-A26F-E4473DA0ECD8}
+	EndGlobalSection
+EndGlobal

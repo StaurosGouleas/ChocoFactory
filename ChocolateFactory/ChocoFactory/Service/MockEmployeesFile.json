@@ -1,0 +1,212 @@
+[
+  {
+    "ID": 100,
+    "Salary": 2000,
+    "DeparmentId": 1,
+    "ManagerId": 1,
+    "FirstName": "Dimitris",
+    "Lastname": "Nikolaidis",
+    "Email": "bayer.abigayle@ondricka.biz",
+    "Phone": 6982425510
+  },
+  {
+    "ID": 101,
+    "Salary": 2001,
+    "DeparmentId": 2,
+    "ManagerId": 2,
+    "Firstname": "Dimitra",
+    "Lastname": "Pappa",
+    "Email": "jrosenbaum@kuphal.com",
+    "Phone": 6982425500
+  },
+  {
+    "ID": 102,
+    "Salary": 2002,
+    "DeparmentId": 1,
+    "ManagerId": 3,
+    "Firstname": "Katerina",
+    "Lastname": "Papapetrou",
+    "Email": "ykonopelski@nikolaus.com",
+    "Phone": 6982427510
+  },
+  {
+    "ID": 103,
+    "Salary": 2003,
+    "DeparmentId": 2,
+    "ManagerId": 4,
+    "Firstname": "Anna",
+    "Lastname": "Ioakividi",
+    "Email": "harmon.tremblay@willms.com",
+    "Phone": 6982445510
+  },
+  {
+    "ID": 104,
+    "Salary": 2004,
+    "DeparmentId": 1,
+    "ManagerId": 5,
+    "Firstname": "Stavros",
+    "Lastname": "Peskas",
+    "Email": "merl.rutherford@gmail.com",
+    "Phone": 6984725510
+  },
+  {
+    "ID": 105,
+    "Salary": 2005,
+    "DeparmentId": 2,
+    "ManagerId": 6,
+    "Firstname": "Nikolaos",
+    "Lastname": "Papadoupoulos",
+    "Email": "feest.jazmin@schuppe.com",
+    "Phone": 6983325510
+  },
+  {
+    "ID": 106,
+    "Salary": 2006,
+    "DeparmentId": 1,
+    "ManagerId": 1,
+    "Firstname": "Georgios",
+    "Lastname": "Lois",
+    "Email": "leonardo.kohler@rodriguez.com",
+    "Phone": 6982335510
+  },
+  {
+    "ID": 107,
+    "Salary": 2007,
+    "DeparmentId": 2,
+    "ManagerId": 2,
+    "Firstname": "Evangelos",
+    "Lastname": "Litsios",
+    "Email": "frami.elena@yahoo.com",
+    "Phone": 6982885510
+  },
+  {
+    "ID": 108,
+    "Salary": 2008,
+    "DeparmentId": 1,
+    "ManagerId": 3,
+    "Firstname": "Andreas",
+    "Lastname": "Balfousias",
+    "Email": "elizabeth.lang@hotmail.com",
+    "Phone": 6982425577
+  },
+  {
+    "ID": 109,
+    "Salary": 2009,
+    "DeparmentId": 2,
+    "ManagerId": 4,
+    "Firstname": "Vasilis",
+    "Lastname": "Oikonomou",
+    "Email": "nolan.carol@gmail.com",
+    "Phone": 6937425510
+  },
+  {
+    "ID": 110,
+    "Salary": 2010,
+    "DeparmentId": 1,
+    "ManagerId": 5,
+    "Firstname": "Anna",
+    "Lastname": "Kiritsi",
+    "Email": "annabell28@kuphal.biz",
+    "Phone": 698289710
+  },
+  {
+    "ID": 111,
+    "Salary": 2011,
+    "DeparmentId": 2,
+    "ManagerId": 6,
+    "Firstname": "Christina",
+    "Lastname": "Dimitriou",
+    "Email": "lehner.oswald@hotmail.com",
+    "Phone": 6982787510
+  },
+  {
+    "ID": 112,
+    "Salary": 2012,
+    "DeparmentId": 1,
+    "ManagerId": 1,
+    "Firstname": "Nikoleta",
+    "Lastname": "Pavlidi",
+    "Email": "jschiller@leannon.com",
+    "Phone": 6987425510
+  },
+  {
+    "ID": 113,
+    "Salary": 2013,
+    "DeparmentId": 2,
+    "ManagerId": 2,
+    "Firstname": "Periklis",
+    "Lastname": "Pappas",
+    "Email": "lisandro.schuppe@lubowitz.com",
+    "Phone": 6986625510
+  },
+  {
+    "ID": 114,
+    "Salary": 2014,
+    "DeparmentId": 1,
+    "ManagerId": 3,
+    "Firstname": "Apostolos",
+    "Lastname": "Tsipras",
+    "Email": "shayne03@yahoo.com",
+    "Phone": 6982421110
+  },
+  {
+    "ID": 115,
+    "Salary": 2015,
+    "DeparmentId": 2,
+    "ManagerId": 4,
+    "Firstname": "Athina",
+    "Lastname": "Oikonomakou",
+    "Email": "benjamin.mueller@hotmail.com",
+    "Phone": 6982469610
+  },
+  {
+    "ID": 116,
+    "Salary": 2016,
+    "DeparmentId": 1,
+    "ManagerId": 5,
+    "Firstname": "Pavlos",
+    "Lastname": "Pavlis",
+    "Email": "kozey.juana@yahoo.com",
+    "Phone": 6982445710
+  },
+  {
+    "ID": 117,
+    "Salary": 2017,
+    "DeparmentId": 2,
+    "ManagerId": 6,
+    "Firstname": "Thodoros",
+    "Lastname": "Pipiros",
+    "Email": "sporer.carlee@turner.com",
+    "Phone": 6982747510
+  },
+  {
+    "ID": 118,
+    "Salary": 2018,
+    "DeparmentId": 1,
+    "ManagerId": 1,
+    "Firstname": "Pinelopi",
+    "Lastname": "Zafeirakou",
+    "Email": "sjaskolski@gmail.com",
+    "Phone": 69824987510
+  },
+  {
+    "ID": 119,
+    "Salary": 2019,
+    "DeparmentId": 2,
+    "ManagerId": 2,
+    "Firstname": "Kleopatra",
+    "Lastname": "Aggelopoulou",
+    "Email": "schmeler.russel@treutel.com",
+    "Phone": 698236310
+  },
+  {
+    "ID": 120,
+    "Salary": 2020,
+    "DeparmentId": 1,
+    "ManagerId": 3,
+    "Firstname": "Aristidis",
+    "Lastname": "Karfakis",
+    "Email": "schmeler.russel@treutel.com",
+    "Phone": 6982425599
+  }
+]
